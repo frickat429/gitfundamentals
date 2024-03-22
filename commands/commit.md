@@ -13,4 +13,12 @@ git add .
 git commit -m "Added register functionality"
 ```
 
-Then when viewing the history of a git repository, you can pinpoint where the registration functionality was added.
+Then when viewing the history of a git repository, you can pinpoint where the registration functionality was added. 
+
+## Resources
+
+- [Git Commit Documentation](https://git-scm.com/docs/git-commit)
+
+---
+
+[Back to home](../ReadME.md)
